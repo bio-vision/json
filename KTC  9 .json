@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Register of disbursing oﬃcers shall be maintained in Form Number _______",
+      "correct_answer": "TR 111",
+      "incorrect_answers": [
+        " TR 105",
+        " TR 110,
+        "TR 112"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "A Register in Form ______ shall be maintained at the Sub Treasuries for noting details of passed bills for payment.",
+      "correct_answer": "TR 18",
+      "incorrect_answers": [
+        "TR 7A",
+        "TR 12",
+        "TR 21
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The Treasury Register of personal deposits is in form",
+      "correct_answer": "TA 15",
+      "incorrect_answers": [
+        " TA 13",
+        " TA 12",
+        "TA 11"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "_______ Deposit shall never be repaid in past.",
+      "correct_answer": "Earnest money deposit",
+      "incorrect_answers": [
+        "Security deposit ",
+        "Civil Court deposit",
+        "None of these"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "A serially numbered currency chest slip should be maintained in which of the following forms?",
+      "correct_answer": "TR 38",
+      "incorrect_answers": [
+        "TR 37",
+        "TR 39",
+        "TR 40"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "No TSB account will be transferred during the month of March specify the rule.",
+      "correct_answer": "TSB Rule 32",
+      "incorrect_answers": [
+        "TSB Rule 33",
+        "TSB Rule 34",
+        "TSB Rule 35"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who is responsible for maintaining the required form of currency chests?",
+      "correct_answer": "Currency oﬃcer",
+      "incorrect_answers": [
+        "Director of Treasuries",
+        " District Treasury oﬃcer",
+        "None of these "
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which is the rule for TSB Account opened in the name of minor should not be transferred after the minor attaining maturity?",
+      "correct_answer": "TSB Rule 35",
+      "incorrect_answers": [
+        "TSB Rule 34",
+        "TSB Rule 32",
+        "TSB Rule 31"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "A cheque means",
+      "correct_answer": "written order",
+      "incorrect_answers": [
+        "request",
+        "submission",
+        "letter"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Statement of lapsed deposit is",
+      "correct_answer": " TA 36",
+      "incorrect_answers": [
+        "TA 38",
+        "TA 35,
+        "TA 31"
+      ]
+    }
+  ]
+}

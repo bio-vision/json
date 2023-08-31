@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Alteration memorandum is prepared by a District Treasury oﬃcer in Form _________",
+      "correct_answer": "TA VIII",
+      "incorrect_answers": [
+        " TA 10 ",
+        " TA 26",
+        "TA IV"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The Treasury oﬃcer should keep a register in Form ________ of the pension payment order.",
+      "correct_answer": "TR 80",
+      "incorrect_answers": [
+        "TR 72",
+        "TR 56",
+        "TR 42"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "________ pensioner shall ordinarily appear before the disbursing oﬃcer to claim his pension without preparing a bill.. ",
+      "correct_answer": "A leper pensioner",
+      "incorrect_answers": [
+        " A Widow pensioner",
+        " A political pensioner",
+        "None of these"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who is the authority to transfer the payment of pension from any treasury in India to another?",
+      "correct_answer": "Accountant General",
+      "incorrect_answers": [
+        "Director of Treasuries",
+        "Finance Secretary",
+        "Head of Department"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "At a pension payable in India remain undrawn for more than ______ year, the pension shall cease to be payable.",
+      "correct_answer": "one year",
+      "incorrect_answers": [
+        "two year",
+        "six months,
+        "three years"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The Treasury oﬃcer shall not pay any gratuity except on authority received from ________.",
+      "correct_answer": "The accountant General",
+      "incorrect_answers": [
+        "Finance department",
+        "Head of department",
+        "None of these"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Treasury savings bank accounts ordered to be closed will not be transferred in Rule",
+      "correct_answer": "TSB Rule 33",
+      "incorrect_answers": [
+        "TSB Rule 32",
+        " TSB Rule 35",
+        "TSB Rule 34 "
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Commutation of pensioners with regard to service pensioners is mentioned in which of the following rules?",
+      "correct_answer": "R.305 (a)",
+      "incorrect_answers": [
+        "R.304",
+        "R.303",
+        "R.306 (a)"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Weekly cash balance report from treasuries should be in Form Number ________",
+      "correct_answer": "TR 89",
+      "incorrect_answers": [
+        "TR 35",
+        "TR 42",
+        "TR 72"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The currency chests maintained at treasuries contain rupees and notes which belongs to _______",
+      "correct_answer": " Reserve Bank of India",
+      "incorrect_answers": [
+        "State Bank of India",
+        "ICICI Bank",
+        "Govt. of Kerala"
+      ]
+    }
+  ]
+}
